@@ -64,7 +64,7 @@ Using the Excel workbook in your .zip file, modify and analyze the sample-projec
    - Greater than or equal to 50000
      
 #### Goal outcomes
-* Using the COUNTIFS() formula, count how many successful, failed, and canceled projects were created with goals within the ranges listed above. Populate the Number Successful, Number Failed, and Number Canceled columns with these data points.
+* Using the COUNTIFS() formula, count how many successful, failed, and canceled projects were created with goals within the ranges listed above. Populate the Number Successful, Number Failed, and Number Canceled columns with these data points. I have learned the formula to automatically write range of numbers with one of the tutor.
 
 * Add up each of the values in the Number Successful, Number Failed, and Number Canceled columns to populate the Total Projects column. Then, using a mathematical formula, find the percentage of projects that were successful, failed, or canceled per goal range.
   
